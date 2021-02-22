@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora de Notas</string>
+    <string name="aprov">Aluno Aprovado!</string>
+    <string name="reprov">Aluno Reprovado!</string>
+    <string name="rec">Aluno em Recuperação!</string>
+    <string name="erro">Digite um número!</string>
+    <string name="toastAprov">Parbéns!</string>
+    <string name="toastReprov">Estude mais no ano que vem!</string>
+    <string name="toastRec">Estudo para a prova final!</string>
+</resources>
